@@ -9,6 +9,6 @@ This project started for a moderation bot I made for an online community. Scams 
 # Contains
 https://steamcommunity.com/ and its commonly scam sites like CSGO, Rust and other skin sites used to deceive or steal accounts/skins.
   
-Discord.gg - URLs used to steal login credentials for use in spam campaign or to maliciously target people.
+https://discord.com/ - URLs used to steal login credentials for use in spam campaign or to maliciously target people.
 
-Grabify - Website used to "grab" a user's device and IP/location infomation when clicked. This can be used for scare tactics or tp gather infomation otherwise impossible to gather on most server side chat/game services.
+https://grabify.link/ - Website used to "grab" a user's device and IP/location infomation when clicked. This can be used for scare tactics or to gather infomation otherwise impossible to gather on most server side chat/game services.
