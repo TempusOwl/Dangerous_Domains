@@ -1,4 +1,4 @@
-Dangerous Domains
+# Dangerous Domains
 WARNING READ!!! All URLs in this repository SHOULD be considered DANGEROUS. Do use any URL within this project on a browser, unless you are a security researcher and understand the risk(s). I do not verify these links if they are still active or not, instead if the links had any history of being used for scams, phinishing or spreading dangerous content they will stay on here reguardless if they have any of active dns/ownership.
 
 ## Why?
